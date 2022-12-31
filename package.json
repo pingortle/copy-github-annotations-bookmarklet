@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bookmarklet": "^1.0.4",
+    "bookmarklet": "^3.0.0",
     "prettier-standard": "^14.0.7",
     "standard": "^14.3.1"
   }
